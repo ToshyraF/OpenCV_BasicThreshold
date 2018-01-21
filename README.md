@@ -1,6 +1,5 @@
 # OpenCV_BasicThreshold
-
-# วิธีการ run file
-# $ cmake .
-# $ make
-# $ ./Binary
+วิธีการ run file
+- $ cmake .
+- $ make
+- $ ./Binary
