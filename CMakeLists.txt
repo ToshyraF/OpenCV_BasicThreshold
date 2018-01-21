@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8)
-project( Binary )
+project( BasicThreshold )
 find_package( OpenCV REQUIRED )
-add_executable( Binary Binary.cpp )
-target_link_libraries( Binary ${OpenCV_LIBS} )
+add_executable( BasicThreshold BasicThreshold.cpp )
+target_link_libraries( BasicThreshold ${OpenCV_LIBS} )
