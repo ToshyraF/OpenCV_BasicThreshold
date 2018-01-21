@@ -2,4 +2,4 @@
 วิธีการ run file
 - $ cmake .
 - $ make
-- $ ./Binary
+- $ ./BasicThreshold
